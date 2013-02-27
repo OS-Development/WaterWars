@@ -1,4 +1,4 @@
-const relayUrl = "http://localhost:9000/waterwars/";
+const relayUrl = "http://localhost:7300/waterwars/";
 const PLAYER_PATH = "player";
 const LOGIN_PATH = "login";
 const NEWS_PATH = "news";
